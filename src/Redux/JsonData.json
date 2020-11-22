@@ -1,0 +1,32 @@
+[
+  {
+    "groupid": "a",
+    "group": "India",
+    "items": [
+      { "itemid": "1", "name": "Madhya Pradesh", "selected": false },
+      { "itemid": "2", "name": "Uttar Pradesh", "selected": false },
+      { "itemid": "3", "name": "Bihar", "selected": false },
+      { "itemid": "4", "name": "Himachal Predesh", "selected": false }
+    ]
+  },
+  {
+    "groupid": "b",
+    "group": "Australia",
+    "items": [
+      { "itemid": "5", "name": "Queensland", "selected": false },
+      { "itemid": "6", "name": "Tasmania", "selected": false },
+      { "itemid": "7", "name": "Victoria", "selected": false },
+      { "itemid": "8", "name": "New South Wales", "selected": false }
+    ]
+  },
+  {
+    "groupid": "c",
+    "group": "Germany",
+    "items": [
+      { "itemid": "9", "name": "Berlin", "selected": false },
+      { "itemid": "10", "name": "Bremen", "selected": false },
+      { "itemid": "11", "name": "Bayern", "selected": false },
+      { "itemid": "12", "name": "Hamburg", "selected": false }
+    ]
+  }
+]
